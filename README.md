@@ -4,6 +4,8 @@ create a repo
 ##the wealthiest short story 
 prize I have judged was the Sunday Times EFG short story award, which presents the victor with £30,000. If the winning writer were to use every single one of the 6,000 words allowed them, that would work out at a fiver a word, which puts them on a par with that other well-paid writer of creative fiction, the columnist Boris Johnson.
 
+![taxi.jpg](read_me/taxi.jpg)
+
 ###In straitened times 
 for writers, you would think a prize bonanza like this is a good thing – but it cuts no ice with Philip Hensher, editor of The Penguin Book of the Contemporary British Short Story, published two years after his immense anthology-cum-survey of the British short story since c1700 and designed, in part, to compensate for some of the space-related omissions of the last project.
 
